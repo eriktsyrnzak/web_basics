@@ -1,0 +1,36 @@
+h1 {
+text-transform: uppercase
+}
+.list__item{
+color:red;
+font-style: italic;
+ }
+ .box {
+margin-bottom: 10px ;
+  background: yellow;
+border: 2px solid;
+border-color: red ;
+ }
+ .kaka {
+border: 2px solid;
+border-color: blue;
+ }
+ .hellyeah{
+border: 2px solid;
+border-color: red
+ }
+.didi {
+margin-top: 15px;
+padding-left:1300px ;  
+border: 2px solid;
+border-color: blue;
+ }
+ .lili {
+  color: purple
+ }
+ .luk {
+color: green
+ }
+ .ping {
+color: rgb(208, 32, 199)
+ }
