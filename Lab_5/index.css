@@ -1,36 +1,52 @@
-h1 {
-text-transform: uppercase
+.h1 {
+    text-transform: uppercase;
 }
-.list__item{
-color:red;
-font-style: italic;
- }
- .box {
-margin-bottom: 10px ;
-  background: yellow;
-border: 2px solid;
-border-color: red ;
- }
- .kaka {
-border: 2px solid;
-border-color: blue;
- }
- .hellyeah{
-border: 2px solid;
-border-color: red
- }
-.didi {
-margin-top: 15px;
-padding-left:1300px ;  
-border: 2px solid;
-border-color: blue;
- }
- .lili {
-  color: purple
- }
- .luk {
-color: green
- }
- .ping {
-color: rgb(208, 32, 199)
- }
+.mi {
+    color: #FF0000;
+}
+.mi li {
+   font-style: italic;
+   background-color: yellow; 
+}
+ol {
+    border: 1px solid red;
+}
+#luk {
+    color: green;
+}
+[href$=".pdf"] {
+    color: green;
+    font-style: italic;
+}
+a {
+    color: violet;
+    text-decoration: none;
+}
+ul ul {
+    text-transform: uppercase;
+}
+p a {
+    color: magenta;
+    background-color: mistyrose;
+}
+bold {
+    font-weight: bold;
+}
+li.bold {
+    text-transform: uppercase;
+}
+.right {
+    text-align: right;
+    border: 1px solid blue;
+    font-size: 20px;
+}
+.h1 {
+    color: red;
+}
+*{
+    box-sizing: border-box;
+}
+*/
+.ol_list .goal_text {
+    background-color: yellow;
+}
